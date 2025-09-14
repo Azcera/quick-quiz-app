@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/49bb9261-4ee0-440e-aa9a-e4b98d3bf77a
 # Quick Quiz Mobile App
 
 Приложение позволяет использовать заранее созданные тесты(квизы) для быстрого прохождения пользователями.
