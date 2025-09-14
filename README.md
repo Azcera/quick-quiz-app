@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/49bb9261-4ee0-440e-aa9a-e4b98d3bf77a
 # Quick Quiz Mobile App
 
 Приложение позволяет использовать заранее созданные тесты(квизы) для быстрого прохождения пользователями.
@@ -36,5 +38,9 @@
 [] Добавить уведомление о конце действия таймера для вопроса с последующим обнулением результата теста(квиза)
 
 ## From Splash To Share - отображение процесса работы приложения
-https://github.com/user-attachments/assets/1db76804-e50b-499e-ba17-b4d9fe4951c6
+
+
+
+https://github.com/user-attachments/assets/d40803cb-818b-4170-b605-c9cc235b9f78
+
 
